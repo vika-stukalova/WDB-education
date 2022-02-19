@@ -1,0 +1,241 @@
+* {
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.flag {
+    display: block;
+    width: 500px;
+    height: 300px;
+    background-color: cornflowerblue;
+    
+}
+
+/* polish flag */
+.whitetwovert {
+    height: 50%;
+    background-color:white;
+}
+
+.redtwovert {
+    height: 50%;
+    background-color:#D22730;
+}
+
+/* luxembourg */
+.redthreevert {
+    height: 33%;
+    background-color:#EF3340;
+}
+
+.whitethreevert {
+    height:33%;
+    background-color:#FFFFFF;
+}
+
+.bluethreevert {
+    height: 33%;
+    background-color: #00A3E0
+}
+
+/* thailand */
+.topred {
+    height: 16.666%;
+    background-color:#EF3340;
+}
+.topwhite {
+    height: 16.666%;
+    background-color: white;
+}
+
+.blue {
+    height: 33.333%;
+    background-color:#00247D;
+}
+.bottomwhite {
+    height: 16.666%;
+    background-color:white;
+}
+.bottomred {
+    height: 16.666%;
+    background-color:#EF3340;
+}
+
+.flaghoriz {
+    display: block;
+    width: 500px;
+    height: 300px;
+    background-color:rgb(4, 97, 121);
+}
+
+/* romanian flag */
+.leftblue {
+    width: 166.666px;
+    height: 300px;
+    background-color:#002B7F;
+}
+.middleyellow {
+    width: 166.666px;
+    height: 300px;
+    background-color:#FCD116;
+    position: relative;
+    top: -300px;
+    left:166.666px;
+}
+
+.rightred {
+    width: 166.666px;
+    height: 300px;
+    background-color:#CE1126;
+    position: relative;
+    top: -600px;
+    left:333.3333px;
+}
+
+/* mexico */
+.leftgreen {
+    width: 33.33333%;
+    height: 300px;
+    background-color:#006341;
+}
+.middlewhite {
+    width: 33.33333%;
+    height: 300px;
+    background-color: white;
+    background:url("https://github.com/fullstack-decal/sp22-homework2-starter/blob/main/flag_eagle.png?raw=true") center no-repeat white;
+    background-size:80%;
+    position: relative;
+    top: -300px;
+    left:166.666px;
+
+}
+
+.rightredmexico {
+    width: 33.33333%;
+    height: 300px;
+    background-color:#C8102E;
+    position: relative;
+    top: -600px;
+    left:333.3333px;
+}
+
+/* greece */
+.firstblock {
+    width: 14.8148%;
+    height: 22.22%;
+    background-color: #0D5EAF;
+}
+
+.secondblock {
+    width: 37%;
+    height: 11%;
+    background-color: white;
+}
+
+.thirdblock {
+    width: 14.8148%;
+    height: 22.22%;
+    background-color: #0D5EAF;
+}
+
+.forthblock {
+    width: 100%;
+    height: 11%;
+    background-color: white;
+}
+
+.fifthblock {
+    width: 100%;
+    height: 11%;
+    background-color: #0D5EAF;
+}
+
+.sixthblock {
+    width: 100%;
+    height: 11%;
+    background-color: white;
+}
+
+.seventhblock {
+    width: 100%;
+    height: 11%;
+    background-color: #0D5EAF;
+}
+
+.eigthblock {
+    width: 8%;
+    height: 55.5555555%;
+    background-color: white;
+    position: relative;
+    top: -298px;
+    left:75px;
+}
+
+.ninthblock {
+    width: 14.8148%;
+    height: 22.22%;
+    background-color: #0D5EAF;
+    position: relative;
+    top: -465px;
+    left:110px;
+}
+
+.tenthblock {
+    width: 14.8148%;
+    height: 22.22%;
+    background-color: #0D5EAF;
+    position: relative;
+    top: -432px;
+    left:110px;
+}
+
+.eleventhblock {
+    width: 63.5%;
+    height: 11%;
+    background-color:#0D5EAF;
+    position: relative;
+    top: -598px;
+    left:183px;
+}
+
+.twelfthblock {
+    width: 63.5%;
+    height: 11%;
+    background-color: white;
+    position: relative;
+    top: -598px;
+    left:183px;
+}
+
+.thirteenthblock {
+    width: 63.5%;
+    height: 11%;
+    background-color: #0D5EAF;
+    position: relative;
+    top: -598px;
+    left:183px;
+}
+
+.fourteenthblock {
+    width: 63.5%;
+    height: 11%;
+    background-color:white;
+    position: relative;
+    top: -598px;
+    left:183px;
+}
+
+.fifteenthblock {
+    width: 63.5%;
+    height: 11%;
+    background-color: #0D5EAF;
+    position: relative;
+    top: -598px;
+    left:183px;
+}
